@@ -31,5 +31,6 @@
     "@typescript-eslint/indent": ["error", 2],
     "@typescript-eslint/no-empty-interface": 0,
     "react/no-unused-prop-types": 0
-  }
+  },
+  "ignorePatterns": [ "*.js" ]
 }

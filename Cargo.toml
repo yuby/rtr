@@ -1,5 +1,5 @@
 [package]
-name = "rtr"
+name = "wasm-utils"
 version = "0.1.0"
 authors = ["yuby <s30234d@naver.com>"]
 edition = "2018"
