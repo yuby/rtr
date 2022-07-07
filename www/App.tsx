@@ -1,7 +1,7 @@
 /* eslint-disable import/no-relative-packages */
 import React, { useEffect } from 'react';
 import { Box } from './components/Theme';
-import init, { greet } from './pkg/wasm_utils';
+import init, { greet } from './pkg/wasm-utils';
 
 function App() {
   useEffect(() => {

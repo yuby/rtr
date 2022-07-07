@@ -23,4 +23,6 @@
 
 ## Usage
 
-https://rustwasm.github.io/docs/book/introduction.html
+```
+cargo generate --git https://github.com/yuby/rtr.git
+```
